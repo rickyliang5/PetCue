@@ -20,7 +20,7 @@ Installation
 Clone the repository:
 
 bashgit clone https://github.com/yourusername/pet-reminder-app.git
-cd pet-reminder-app
+cd pet-reminder-app/
 
 Install dependencies:
 
