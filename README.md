@@ -3,7 +3,7 @@ A React-based application to help pet owners stay organized and never miss impor
 ✨ Features
 
 Multiple Pet Profiles - Manage reminders for all your pets in one place
-Custom Reminders - Create personalized reminders for feeding, medications, vet visits, grooming, and walks
+Custom Reminders - Create personalized reminders for feeding, medications, vet visits, gr.ooming, and walks
 Recurring Schedules - Set up daily, weekly, or monthly recurring reminders
 Push Notifications - Receive timely alerts so you never miss a pet care task
 Task History - Track completed tasks and maintain a care log for each pet
