@@ -12,7 +12,7 @@ Responsive Design - Works seamlessly on desktop, tablet, and mobile devices
 🚀 Getting Started
 Prerequisites
 
-Node.js (version 14 or higher)
+Node.js (version 14 or higher)w
 npm or yarn package manager
 
 Installation
